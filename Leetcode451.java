@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SortCharactersByFrequency {
+public class Leetcode451 {
     //problem link: https://leetcode.com/problems/sort-characters-by-frequency/description/
 
     static class UsingHashmap {
